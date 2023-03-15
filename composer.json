@@ -1,4 +1,6 @@
 {
+  "name": "prova/autoload",
+  "description": "prova",
   "autoload" : {
     "psr-4" : {
       "WebTier\\" : "app"
